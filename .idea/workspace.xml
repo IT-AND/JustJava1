@@ -14,6 +14,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7aa1247e-f8d2-4a0c-b6fd-6296c84b2a93" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,8 +61,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/justjava/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+            <state relative-caret-position="35">
+              <caret line="48" column="42" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -282,9 +283,9 @@
     <frame x="62" y="27" width="1304" height="741" extended-state="6" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.48979592" visible="true" weight="0.17329094" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.48910412" visible="true" weight="0.17329094" />
       <window_info id="Structure" order="2" side_tool="true" />
-      <window_info id="Favorites" order="3" sideWeight="0.5102041" side_tool="true" visible="true" weight="0.17329094" />
+      <window_info id="Favorites" order="3" sideWeight="0.5108959" side_tool="true" visible="true" weight="0.17329094" />
       <window_info id="Build Variants" order="4" side_tool="true" />
       <window_info id="Image Layers" order="5" />
       <window_info id="Designer" order="6" />
@@ -295,7 +296,7 @@
       <window_info anchor="bottom" id="TODO" order="2" sideWeight="0.49920508" weight="0.32931036" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49919224" weight="0.32962963" />
       <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50397456" side_tool="true" weight="0.32413793" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="5" sideWeight="0.49602544" visible="true" weight="0.32413793" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="5" sideWeight="0.49602544" visible="true" weight="0.28793103" />
       <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49841017" weight="0.36724138" />
       <window_info anchor="bottom" id="Build" order="7" sideWeight="0.4872814" weight="0.25" />
       <window_info anchor="bottom" id="Android Profiler" order="8" />
@@ -376,8 +377,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/justjava/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+        <state relative-caret-position="35">
+          <caret line="48" column="42" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
