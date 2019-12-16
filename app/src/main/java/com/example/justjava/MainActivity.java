@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
     private String createorderSummary()
     {
 
-        String ordername = "Jeck Ma";
+        String ordername = "Vladimir Putin";
 
         String b1 = "Name : " + ordername + "\n";
         String b2 = "Quantity : " + quantity + " finjon \n";
